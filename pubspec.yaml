@@ -1,0 +1,80 @@
+name: work_bench
+description: Employer Employee App
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  connectivity: ^3.0.3
+  image_picker: ^0.8.0+3
+  date_time_picker: ^2.0.0
+  file_picker: ^3.0.1
+  flutter_downloader: ^1.6.0
+  table_calendar: ^3.0.0
+  fluttertoast: ^8.0.6
+  grouped_buttons: ^1.0.4
+  firebase_core: ^1.0.1
+  firebase_database: ^6.1.0
+  firebase_auth: ^1.0.1
+  cloud_firestore: ^1.0.1
+  firebase_storage: ^8.0.0
+  provider: ^5.0.0
+  google_maps_flutter: ^2.0.1
+  location: ^4.1.1
+  geolocator: ^7.0.3
+  geocoding: ^2.0.0
+  get_it: ^7.1.3
+  path_provider: ^2.0.2
+  permission_handler: ^8.0.0+2
+  intl: ^0.17.0
+  firebase_helpers: ^0.3.1
+  flutter_local_notifications: ^6.0.0
+  timezone: ^0.7.0
+  flutter_email_sender: ^5.0.0
+  signature: ^4.1.1
+  image: ^3.0.2
+  carousel_slider: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.9.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/wb.jpg"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/background_img.jpg
+    - assets/images/alerts.png
+    - assets/images/calculator.png
+    - assets/images/emp.png
+    - assets/images/equipment.png
+    - assets/images/inspection.png
+    - assets/images/job.png
+    - assets/images/maintenance.png
+    - assets/images/planner.png
+    - assets/images/vehicle.png
+    - assets/images/avatar_1.jpg
+    - assets/images/calendar.png
+    - assets/images/img_back.jpg
+    - assets/images/img_1.jpg
+
+  fonts:
+    - family: Burbank
+      fonts:
+        - asset: assets/fonts/burbank-big-regular-medium.otf

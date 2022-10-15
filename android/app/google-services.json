@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698714633485",
+    "project_id": "work-bench-2bf1d",
+    "storage_bucket": "work-bench-2bf1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698714633485:android:e3980c84660e18f6a16c44",
+        "android_client_info": {
+          "package_name": "com.zafar.umair.work_bench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698714633485-q4dbjp9eddplqvuqgtde50ga90qbqucr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zafar.umair.work_bench",
+            "certificate_hash": "55fd7fbd1cc45e2ae42276737451fc7e003828bf"
+          }
+        },
+        {
+          "client_id": "698714633485-8iu4ctdi7o59e202v20gfvuvu4id4jfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9g-j9iBrQpgpS-HoogNMfsW95ZXTxuho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698714633485-8iu4ctdi7o59e202v20gfvuvu4id4jfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
